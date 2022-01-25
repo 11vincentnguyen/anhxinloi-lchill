@@ -10,7 +10,7 @@ const CONFIG = {
     question:'Anh làm cái này chỉ để xin lỗi em vì đã để em phải chờ anh.',
     reasonPlaceholder: 'Em gõ gì đi...',
     btnReply: 'Gửi cho anh 💌',
-    reply: 'Em tha lỗi cho anh đó ahihi',
+    reply: 'Lần này em bỏ qua cho anh ahihi',
     mess: 'Anh biết em sẽ tha lỗi cho anh mà, lần sau sẽ không thế nữa. Thật đấy!',
     messDesc: 'Inbox cho Anh nha. 💬',
     btnAccept: 'Ok lunnnn',
