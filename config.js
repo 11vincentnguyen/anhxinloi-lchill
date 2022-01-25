@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Em là nhất 🤘 ',
     btnYes: 'Tha lỗi cho anh đó <3',
     btnNo: 'Còn lâu nhaaa',
-    question:'Anh làm cái này chỉ để xin lỗi em vì đã để em phải chờ anh.',
+    question:'Anh làm cái này chỉ để xin lỗi em vì đã để em phải chờ lâu.',
     reasonPlaceholder: 'Em gõ gì đi...',
     btnReply: 'Gửi cho anh 💌',
     reply: 'Lần này em bỏ qua cho anh ahihi',
