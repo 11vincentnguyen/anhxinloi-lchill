@@ -1,18 +1,18 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
-    introTitle: '✨ Hi Lchill ✨',
+    introTitle: '✨^^Hihi^^ ✨',
     introDesc: `Đố em biết bên trong có gì...`,
-    btnIntro: 'OK',
-    title: 'Anh biết Em thích Anh phải không phải không ? 😙',
-    desc: 'Em không trả lời hoặc thoát ra, tức là Em thích Anh đó nha :> ',
-    btnYes: 'Có, em thật sự thích anh 💖💖💖',
-    btnNo: '💔 Anh mơ à ! 💔 ',
-    question:'Nói cho Anh biết đi vì sao Em thích anh 😊😊',
-    reasonPlaceholder: 'Lý do',
-    btnReply: 'Gởi ! 💌💌',
-    reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
-    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
-    messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
-    btnAccept: 'Ok lun 💖',
-    messLink: 'https://m.me/PhungQuocDinh'
+    btnIntro: '^^Hihi^^',
+    title: 'Ichill Monday 01i Sunday ',
+    desc: 'Em là nhất 🤘 ',
+    btnYes: 'Tha lỗi cho anh <3',
+    btnNo: 'Còn lâu nhaaa',
+    question:'Anh làm cái này chỉ để xin lỗi em vì đã để em phải chờ anh.',
+    reasonPlaceholder: 'Em gõ gì đi...',
+    btnReply: 'Gửi cho anh 💌',
+    reply: 'Em tha lỗi cho anh đó ahihi',
+    mess: 'Anh biết mà lần sau sẽ không thế nữa. Thật đấy!',
+    messDesc: 'Inbox cho Anh nha. 💬',
+    btnAccept: 'Ok lunnnn',
+    messLink: 'https://m.me/11.vincent.nguyen'
 }
